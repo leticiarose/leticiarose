@@ -23,7 +23,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-F46255?style=flat-square&logo=figma&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
   
-   ![Snake animation](https://github.com/leticiarose/leticiarose/blob/main/.github/workflows/main.yml)
+   ![Snake animation](https://github.com/leticiarose/leticiarose/blob/main/.github/workflows/cobrinha.yml)
 
  
 
