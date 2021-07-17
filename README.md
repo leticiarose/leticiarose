@@ -5,7 +5,6 @@
 ## Hi guys🚀
 <p>📕 I am a Front-End developer, curious and restless, in search of new knowledge and experiences.</p> 
 <p>📗 In love about technology. I tend to challenge myself constantly, trying to evolve and learn something every day</p>
-<p>📒 I currently develop using Ionic, ReactJS, ReactNative and web sites with HTML, CSS e JS.
 </p>
 
 <h3 align="left">⚙ Languages, Frameworks and tools:</h3>
