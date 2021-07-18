@@ -12,8 +12,6 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
-  ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=white)
   ![Ionic](https://img.shields.io/badge/-Ionic-84AAF7?style=flat-square&logo=ionic&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
   ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
@@ -21,6 +19,9 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=next.js&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-F46255?style=flat-square&logo=figma&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) 
+  ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-FF1493?style=flat-square&logo=GraphQL&logoColor=white)
   
    ![Snake animation](https://github.com/leticiarose/leticiarose/blob/output/github-contribution-grid-snake.svg)
 
