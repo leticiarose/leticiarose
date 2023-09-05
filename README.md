@@ -1,5 +1,5 @@
 # Letícia Rose | Back-end 
-[![Linkedin Badge](https://img.shields.io/badge/-Letícia_Rose-FF82AB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/letíciarose/)](https://www.linkedin.com/in/letíciarose/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Letícia_Rose-FF82AB?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiarose/)](https://www.linkedin.com/in/leticiarose/) 
 [![Gmail Badge](https://img.shields.io/badge/-leticia.rosedesanatana@gmail.com-FF82AB?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leticia.rosedesanatana@gmail.com)](mailto:leticia.rosedesanatana@gmail.com)
 ####
 ## Oi pessoALL!🚀
